@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "🚧 Test Page 🚧
+  - title: "🚧 Test Page 🚧"
     url: /test-page/
   - title: "Posts"
     url: /posts/
