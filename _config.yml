@@ -58,7 +58,7 @@ plugins:
 # Site Author
 author:
   name: "Rory Scott"
-  avatar: assets/images/avatar.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: assets/images/avatar2.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Data, product, architecture, strategy."
   location: "Glasgow"
   email:
