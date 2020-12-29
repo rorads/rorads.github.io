@@ -92,7 +92,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -103,6 +103,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      classes: wide
       layout: single
       author_profile: true
 
