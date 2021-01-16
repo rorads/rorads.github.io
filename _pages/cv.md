@@ -11,6 +11,6 @@ title: "My CV"
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/document/d/1h0847PGVSI80JAlbor2DGct0MZgeQYP_dLZF47DhOQg/preview?format=pdf" frameborder="0" width="960" height="960" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/document/d/1h0847PGVSI80JAlbor2DGct0MZgeQYP_dLZF47DhOQg/preview" frameborder="0" width="960" height="960" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
